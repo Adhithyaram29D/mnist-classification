@@ -123,4 +123,4 @@ print(x_single_prediction)
 <img src ="https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/87b082c8-6dff-401f-ae68-4128e3c670fb" width="300">
 
 ## RESULT
-A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
