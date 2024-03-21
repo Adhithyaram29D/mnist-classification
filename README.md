@@ -1,7 +1,5 @@
 # Convolutional Deep Neural Network for Digit Classification
-
 ## AIM
-
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
@@ -11,9 +9,7 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 ## Neural Network Model
 ![Screenshot 2024-03-20 193211](https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/556db7ca-2e5c-40c7-b273-703044a58483)
 
-
 ## DESIGN STEPS
-
 ### STEP 1:
 Import tensorflow and preprocessing libraries
 
@@ -24,10 +20,8 @@ Build a CNN model
 Compile and fit the model and then predict
 
 ## PROGRAM
-
 ### Name: ADHITHYARAM D
 ### Register Number:  21222230008
-
 ```python
 import numpy as np
 from tensorflow import keras
