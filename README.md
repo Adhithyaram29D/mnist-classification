@@ -112,19 +112,19 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img src = "https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/80feb7c7-b15a-4226-be0c-c9ebdfbf1f7f" width = "400">
 
 ### Classification Report
 
-Include Classification Report here
+<img src =" https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/7db86328-ca46-44ad-b7dd-54740be8c14f" width ="400">
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img src = "https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/7b61bc6b-cd9d-4045-b19a-e2d0b2539b7b" width="400">
 
 ### New Sample Data Prediction
-
-Include your sample input and output for your hand written images.
+<img src ="https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/28344d2b-6ce1-4e3f-a846-92328355d789" width="300">
+<img src ="https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/87b082c8-6dff-401f-ae68-4128e3c670fb" width="300">
 
 ## RESULT
 Include your result here.
