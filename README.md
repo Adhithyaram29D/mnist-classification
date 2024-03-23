@@ -112,7 +112,7 @@ print(x_single_prediction)
 
 ### Classification Report
 
-<img src =" https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/7db86328-ca46-44ad-b7dd-54740be8c14f" width ="400">
+<img src = "https://github.com/Adhithyaram29D/mnist-classification/assets/119393540/7db86328-ca46-44ad-b7dd-54740be8c14f" width ="400">
 
 ### Confusion Matrix
 
